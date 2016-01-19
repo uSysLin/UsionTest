@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: AppFuse Modular Application - Web (Spring MVC)
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: lin
+Implementation-Vendor-Id: com.usion
+Build-Jdk: 1.8.0_51
+Created-By: Maven Integration for Eclipse
+
